@@ -1,5 +1,1 @@
-I'm a Network Administrator and Security Engineer.
-Computer Networks, Cybersecurity, Systems Administration, Linux, Python and Electronic Security Systems.
-Aspiring Penetration Tester.
-I'm committed to skill refinement and poised to make a meaningful mark through dedicated contributions. 
-Open to collaboration and opportunities
+Information Systems Engineer with over 2 years of experience in Computer Networks, Systems administration and IT support. Determined and focused in managing IT infrastructures, web services, security systems and optimizing environment while reducing redundancy. Considered expert in troubleshooting complex problems and reaching innovative solutions while adhering to rules and requirements of project scope. Dynamic team player when interfacing with other staff members, vendors and end-users.
